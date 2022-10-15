@@ -10,4 +10,4 @@ Mostly from the book ISLR.
 
 #### NOTE!!:
 - Deep Learning code and notes have not yet been documented and arranged properly, will be uploaded soon!
-- Formatting errors and some images are not displaying. :')
+- Formatting errors in ISLR and some images are not displaying. :')
